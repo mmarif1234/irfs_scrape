@@ -1,0 +1,41 @@
+# Secrets & auth
+credentials.json
+token.json
+*.pem
+.env
+.env.*
+
+# Generated data
+downloads/
+*.csv
+*.pdf
+
+# Logs
+*.log
+
+# Debug captcha snapshots
+debug_captcha_*.png
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Conda
+.conda/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+.claude/
+
+# macOS / OS junk
+.DS_Store
+Thumbs.db

@@ -24,7 +24,7 @@ The scraper uses Gmail API to watch for OIR emails and extract download links au
 5. Name: IRFS Scraper
 6. Click Create → Download JSON
 7. Rename the downloaded file to `credentials.json`
-8. Place it in this folder (same folder as scraper.py)
+8. Place it in this folder (same folder as `download_pdfs.py`)
 
 ### 4. First run — authorize
 On first run, the script will open a browser window asking you to authorize Gmail access.
